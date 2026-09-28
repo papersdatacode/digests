@@ -1,4 +1,4 @@
-# 📋 ML итоги месяца · August 2026
+# 📋 ML итоги месяца · Август 2026
 
 #ML #Recap #MonthlyDigest #August2026
 
