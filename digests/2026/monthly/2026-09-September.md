@@ -49,7 +49,7 @@ It adds verified, reusable skill graphs distilled from repositories, boosting fi
 
 **Previous leader** · **Stealing Reasoning Traces from Proprietary LLM APIs**
 ⭐ 0 (+0) · ❤️ 121 (+5)
-**From** · [[August Monthly]](https://t.me/papersdatacode_digests/76)
+**From** · [[August Monthly]](https://papersdatacode.com/issues/2-monthly-2026-08?utm_source=gh_card)
 
 ---
 
@@ -93,7 +93,7 @@ Eliminates EMA targets, predictors, and masking yet beats V-JEPA 2 with 5.6-20.8
 
 **Previous leader** · **ApodexAI/FrontierAgent**
 ⭐ 4.7k (+3.4k) · 🍴 240 (+131)
-**From** · [[August Monthly]](https://t.me/papersdatacode_digests/77)
+**From** · [[August Monthly]](https://papersdatacode.com/issues/2-monthly-2026-08?utm_source=gh_card)
 
 ---
 
@@ -138,7 +138,7 @@ First seen: main channel · Sep 23
 
 **Previous leader** · **hamzabagirsakci/turkish-court-decisions**
 📥 3.5k (+1.5k) · ❤️ 136 (+36)
-**From** · [[August Monthly]](https://t.me/papersdatacode_digests/78)
+**From** · [[August Monthly]](https://papersdatacode.com/issues/2-monthly-2026-08?utm_source=gh_card)
 
 ---
 
