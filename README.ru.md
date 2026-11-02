@@ -25,10 +25,10 @@
 
 ## Где подписаться
 
-- 📄 Основной канал: [@papersdatacode_ru](https://t.me/papersdatacode_ru)
-- 📈 Дайджесты: [@papersdatacode_digests_ru](https://t.me/papersdatacode_digests_ru)
-- 🐦 Twitter: [@papersdatacode](https://twitter.com/papersdatacode)
-- 🌐 English: [@papersdatacode](https://t.me/papersdatacode) · [@papersdatacode_digests](https://t.me/papersdatacode_digests)
+- ➡️ Ежедневная лента: [Telegram](https://t.me/papersdatacode_ru) · [X (EN)](https://x.com/papersdatacode)
+- ✉️ Лучшее за неделю по email (EN): [The Weekly ML Signal](https://papersdatacode.com/?utm_source=f_gh_readme_ru)
+- 📋 Дайджесты: [Telegram](https://t.me/papersdatacode_digests_ru)
+- 🌐 English: [Daily feed](https://t.me/papersdatacode) · [Digests](https://t.me/papersdatacode_digests)
 
 ## Чем мы отличаемся
 
@@ -62,4 +62,4 @@ MIT для метаданных. Оригинальные статьи и код
 
 ## Контакт
 
-📧 papers.data.code@gmail.com
+📧 news@papersdatacode.com

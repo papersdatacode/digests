@@ -15,9 +15,9 @@ Unlike bidirectionally adapted WAMs, it preserves causal video pretraining, enab
 🌱 **Since posted · 16d**
 ⭐ 2.8k (+139) · ❤️ 113 (+23)
 
-⬆️ First featured · [W41_2026](https://t.me/papersdatacode_digests/104)
+⬆️ First featured · [W41_2026](https://papersdatacode.com/issues/8-weekly-2026-w41?utm_source=gh_card)
 
-[→ Full breakdown](https://t.me/papersdatacode/566)
+[→ Full breakdown](https://papersdatacode.com/papers/9a3eb907-long-wam-scaling-the-context-of-world-action-models?utm_source=gh_card)
 
 ### 🥈 [YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality](https://arxiv.org/abs/2609.33757)
 
@@ -28,9 +28,9 @@ Unlike end-to-end audio models, it explicitly plans readable scores before full-
 🌱 **Since posted · 25d**
 ⭐ 12.7k (+2.1k) · ❤️ 205 (-1)
 
-⬆️ First featured · [W40_2026](https://t.me/papersdatacode_digests/100)
+⬆️ First featured · [W40_2026](https://papersdatacode.com/issues/7-weekly-2026-w40?utm_source=gh_card)
 
-[→ Full breakdown](https://t.me/papersdatacode/534)
+[→ Full breakdown](https://papersdatacode.com/papers/6144b80e-yue2-unifying-symbolic-and-audio-music-generation-at?utm_source=gh_card)
 
 ### 🥉 [TabFM: A Zero-Shot Foundation Model for Tabular Data](https://arxiv.org/abs/2609.37959)
 
@@ -41,15 +41,15 @@ A 400M model trained only on synthetic SCM tables beats tuned AutoGluon zero-sho
 🌱 **Since posted · 24d**
 ⭐ 2.8k (+102) · ❤️ 21 (+7)
 
-⬆️ First featured · [W40_2026](https://t.me/papersdatacode_digests/100)
+⬆️ First featured · [W40_2026](https://papersdatacode.com/issues/7-weekly-2026-w40?utm_source=gh_card)
 
-[→ Full breakdown](https://t.me/papersdatacode/538)
+[→ Full breakdown](https://papersdatacode.com/papers/6e794885-tabfm-a-zero-shot-foundation-model-for-tabular-data?utm_source=gh_card)
 
 ---
 
 **Previous leader** · **NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction**
 ⭐ 27 (+4) · ❤️ 204 (-124)
-**From** · [September Monthly]
+**From** · [[September Monthly]](2026-09-September.md)
 
 ---
 
@@ -65,7 +65,7 @@ Unlike retrieval-style agent memory, it persists latent session state directly, 
 ⬆️ Fresh · debut on monthly
 First seen: main channel · Oct 22
 
-[→ Full breakdown](https://t.me/papersdatacode/613)
+[→ Full breakdown](https://papersdatacode.com/repos/6402570a-memt-1-0?utm_source=gh_card)
 
 ### 🥈 [OpenMOSS/MOSS-Image](https://github.com/OpenMOSS/MOSS-Image)
 
@@ -77,7 +77,7 @@ Unlike most open text-to-image releases, it combines JSON layout control, readab
 ⬆️ Fresh · debut on monthly
 First seen: main channel · Oct 20
 
-[→ Full breakdown](https://t.me/papersdatacode/605)
+[→ Full breakdown](https://papersdatacode.com/repos/e5cb9fc6-moss-image?utm_source=gh_card)
 
 ### 🥉 [nokia-applied-research/AnyJev](https://github.com/nokia-applied-research/AnyJev)
 
@@ -86,15 +86,15 @@ Unlike recent typed-decision repos, it retrofits open LLMs into calibrated class
 🌱 **Since posted · 20d**
 ⭐ 1.5k (+451) · 🍴 170 (+37)
 
-⬆️ First featured · [W41_2026](https://t.me/papersdatacode_digests/105)
+⬆️ First featured · [W41_2026](https://papersdatacode.com/issues/8-weekly-2026-w41?utm_source=gh_card)
 
-[→ Full breakdown](https://t.me/papersdatacode/552)
+[→ Full breakdown](https://papersdatacode.com/repos/554d4153-anyjev?utm_source=gh_card)
 
 ---
 
 **Previous leader** · **jaredpalmer/kev**
 ⭐ 9.5k (+2.3k) · 🍴 647 (+210)
-**From** · [September Monthly]
+**From** · [[September Monthly]](2026-09-September.md)
 
 ---
 
@@ -107,9 +107,9 @@ It pairs 74.0M field-instance masks with a 100-country zero-shot split for cross
 🌱 **Since posted · 26d**
 📥 1.2k (+926) · ❤️ 6 (+2)
 
-⬆️ First featured · [W40_2026](https://t.me/papersdatacode_digests/102)
+⬆️ First featured · [W40_2026](https://papersdatacode.com/issues/7-weekly-2026-w40?utm_source=gh_card)
 
-[→ Full breakdown](https://t.me/papersdatacode/531)
+[→ Full breakdown](https://papersdatacode.com/datasets/784817c5-fbis-73m?utm_source=gh_card)
 
 ### 🥈 [hongzhuyi/VDEBench](https://huggingface.co/datasets/hongzhuyi/VDEBench)
 
@@ -121,7 +121,7 @@ Targets dense bilingual document-image editing with region masks and seven text/
 ⬆️ Fresh · debut on monthly
 First seen: main channel · Oct 21
 
-[→ Full breakdown](https://t.me/papersdatacode/608)
+[→ Full breakdown](https://papersdatacode.com/datasets/525282f0-vdebench-visual-document-editing-3506-examples?utm_source=gh_card)
 
 ### 🥉 [2077AIDataFoundation/TouchScale](https://huggingface.co/datasets/2077AIDataFoundation/TouchScale)
 
@@ -130,20 +130,19 @@ Unlike recent egocentric manipulation datasets, it adds synchronized 880-taxel f
 🌱 **Since posted · 13d**
 📥 11.5k (+9k) · ❤️ 14 (+9)
 
-⬆️ First featured · [W42_2026](https://t.me/papersdatacode_digests/110)
+⬆️ First featured · [W42_2026](https://papersdatacode.com/issues/9-weekly-2026-w42?utm_source=gh_card)
 
-[→ Full breakdown](https://t.me/papersdatacode/576)
+[→ Full breakdown](https://papersdatacode.com/datasets/754f13f4-touchscale?utm_source=gh_card)
 
 ---
 
 **Previous leader** · **secemp9/arxiv-complete**
 📥 263.8k (+179.6k) · ❤️ 709 (+242)
-**From** · [September Monthly]
+**From** · [[September Monthly]](2026-09-September.md)
 
 ---
 
----
-
-➡️ Daily ML signals · [Papers.Data.Code](https://t.me/papersdatacode)
-
-via [Papers.Data.Code | Digests](https://t.me/papersdatacode_digests)
+➡️ Daily feed · [Telegram](https://t.me/papersdatacode) · [X](https://x.com/papersdatacode)  
+✉️ Weekly email · [The Weekly ML Signal](https://papersdatacode.com/?utm_source=f_gh_digest)  
+📋 Digests · [Papers.Data.Code | Digests](https://t.me/papersdatacode_digests)  
+🌐 Russian version · [Papers.Data.Code | Digests RU](https://t.me/papersdatacode_digests_ru)

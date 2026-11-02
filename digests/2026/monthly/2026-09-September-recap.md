@@ -30,6 +30,7 @@ Open modular world-action stack with pretrained checkpoints enables practical ro
 
 ---
 
-➡️ Daily ML signals · [Papers.Data.Code](https://t.me/papersdatacode)
-
-via [Papers.Data.Code | Digests](https://t.me/papersdatacode_digests)
+➡️ Daily feed · [Telegram](https://t.me/papersdatacode) · [X](https://x.com/papersdatacode)  
+✉️ Weekly email · [The Weekly ML Signal](https://papersdatacode.com/?utm_source=f_gh_digest)  
+📋 Digests · [Papers.Data.Code | Digests](https://t.me/papersdatacode_digests)  
+🌐 Russian version · [Papers.Data.Code | Digests RU](https://t.me/papersdatacode_digests_ru)

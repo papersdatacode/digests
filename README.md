@@ -24,10 +24,10 @@ Just signal.
 
 ## Where to follow
 
-- 📄 Daily feed: [@papersdatacode](https://t.me/papersdatacode)
-- 📈 Digests: [@papersdatacode_digests](https://t.me/papersdatacode_digests)
-- 🐦 Twitter: [@papersdatacode](https://twitter.com/papersdatacode)
-- 🌐 Russian: [@papersdatacode_ru](https://t.me/papersdatacode_ru) · [@papersdatacode_digests_ru](https://t.me/papersdatacode_digests_ru)
+- ➡️ Daily feed: [Telegram](https://t.me/papersdatacode) · [X](https://x.com/papersdatacode)
+- ✉️ Weekly email: [The Weekly ML Signal](https://papersdatacode.com/?utm_source=f_gh_readme)
+- 📋 Digests: [Telegram](https://t.me/papersdatacode_digests)
+- 🌐 Russian: [Daily feed](https://t.me/papersdatacode_ru) · [Digests](https://t.me/papersdatacode_digests_ru)
 
 ## Why it's different
 
@@ -60,4 +60,4 @@ MIT for metadata. Original papers and code retain their respective licenses.
 
 ## Contact
 
-📧 papers.data.code@gmail.com
+📧 news@papersdatacode.com

@@ -15,9 +15,9 @@ Adds product-quantized next-concept prediction to autoregressive decoding, match
 🌱 **Since posted · 13d**
 ⭐ 23 (+14) · ❤️ 328 (+81)
 
-⬆️ First featured · [W38_2026](https://t.me/papersdatacode_digests/90)
+⬆️ First featured · [W38_2026](https://papersdatacode.com/issues/5-weekly-2026-w38?utm_source=gh_card)
 
-[→ Full breakdown](https://t.me/papersdatacode/476)
+[→ Full breakdown](https://papersdatacode.com/papers/7cb3060f-ncp-archpreview-technical-report-moving-towards-latent?utm_source=gh_card)
 
 ### 🥈 [ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search](https://arxiv.org/abs/2609.13356)
 
@@ -28,9 +28,9 @@ Unlike larger post-trained specialists, it trains an open 7B from scratch to 256
 🌱 **Since posted · 11d**
 ⭐ 565 (+360) · ❤️ 262 (-29)
 
-⬆️ First featured · [W38_2026](https://t.me/papersdatacode_digests/90)
+⬆️ First featured · [W38_2026](https://papersdatacode.com/issues/5-weekly-2026-w38?utm_source=gh_card)
 
-[→ Full breakdown](https://t.me/papersdatacode/484)
+[→ Full breakdown](https://papersdatacode.com/papers/0846a05f-zgcm-1-a-fully-open-and-extremely-efficient-foundation?utm_source=gh_card)
 
 ### 🥉 [Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills](https://arxiv.org/abs/2609.02749)
 
@@ -41,9 +41,9 @@ It adds verified, reusable skill graphs distilled from repositories, boosting fi
 🌱 **Since posted · 23d**
 ⭐ 314 (+205) · ❤️ 401 (-98)
 
-⬆️ First featured · [W36_2026](https://t.me/papersdatacode_digests/82)
+⬆️ First featured · [W36_2026](https://papersdatacode.com/issues/3-weekly-2026-w36?utm_source=gh_card)
 
-[→ Full breakdown](https://t.me/papersdatacode/445)
+[→ Full breakdown](https://papersdatacode.com/papers/1781f19e-repo-to-skill-distilling-github-repositories-into-ai4ai?utm_source=gh_card)
 
 ---
 
@@ -65,7 +65,7 @@ Unlike recent typed-decision repos, it packs many question types into one calibr
 ⬆️ Fresh · debut on monthly
 First seen: main channel · Sep 24
 
-[→ Full breakdown](https://t.me/papersdatacode/515)
+[→ Full breakdown](https://papersdatacode.com/repos/b1b25be5-kev?utm_source=gh_card)
 
 ### 🥈 [Tencent/WeMM-Embedding](https://github.com/Tencent/WeMM-Embedding)
 
@@ -74,9 +74,9 @@ Unlike single-modality embedders, it unifies five input types in one space and r
 🌱 **Since posted · 27d**
 ⭐ 1.7k (+773) · 🍴 116 (+58)
 
-⬆️ First featured · [W36_2026](https://t.me/papersdatacode_digests/83)
+⬆️ First featured · [W36_2026](https://papersdatacode.com/issues/3-weekly-2026-w36?utm_source=gh_card)
 
-[→ Full breakdown](https://t.me/papersdatacode/431)
+[→ Full breakdown](https://papersdatacode.com/repos/278fba27-wemm-embedding?utm_source=gh_card)
 
 ### 🥉 [MLO-lab/LeVJEPA](https://github.com/MLO-lab/LeVJEPA)
 
@@ -85,9 +85,9 @@ Eliminates EMA targets, predictors, and masking yet beats V-JEPA 2 with 5.6-20.8
 🌱 **Since posted · 26d**
 ⭐ 254 (+152) · 🍴 13 (+7)
 
-⬆️ First featured · [W36_2026](https://t.me/papersdatacode_digests/83)
+⬆️ First featured · [W36_2026](https://papersdatacode.com/issues/3-weekly-2026-w36?utm_source=gh_card)
 
-[→ Full breakdown](https://t.me/papersdatacode/436)
+[→ Full breakdown](https://papersdatacode.com/repos/73eafc81-levjepa?utm_source=gh_card)
 
 ---
 
@@ -109,7 +109,7 @@ Unlike paper-text corpora, it combines 3.15M arXiv papers with source files, res
 ⬆️ Fresh · debut on monthly
 First seen: main channel · Sep 22
 
-[→ Full breakdown](https://t.me/papersdatacode/506)
+[→ Full breakdown](https://papersdatacode.com/datasets/d91eb944-arxiv-complete-corpus?utm_source=gh_card)
 
 ### 🥈 [microsoft/XL-DocBench](https://huggingface.co/datasets/microsoft/XL-DocBench)
 
@@ -118,9 +118,9 @@ Unlike broad corpora, it tests evidence-grounded QA over documents up to 2,935 p
 🌱 **Since posted · 24d**
 📥 1k (+1k) · ❤️ 7 (+1)
 
-⬆️ First featured · [W36_2026](https://t.me/papersdatacode_digests/84)
+⬆️ First featured · [W36_2026](https://papersdatacode.com/issues/3-weekly-2026-w36?utm_source=gh_card)
 
-[→ Full breakdown](https://t.me/papersdatacode/442)
+[→ Full breakdown](https://papersdatacode.com/datasets/c51ca469-xl-docbench?utm_source=gh_card)
 
 ### 🥉 [EgoSteer/EgoSteer-RealWorld](https://huggingface.co/datasets/EgoSteer/EgoSteer-RealWorld)
 
@@ -132,7 +132,7 @@ Unlike broad corpora, it tests evidence-grounded QA over documents up to 2,935 p
 ⬆️ Fresh · debut on monthly
 First seen: main channel · Sep 23
 
-[→ Full breakdown](https://t.me/papersdatacode/509)
+[→ Full breakdown](https://papersdatacode.com/datasets/c2078c99-egosteer-real-world-bimanual-teleoperation-dataset?utm_source=gh_card)
 
 ---
 
@@ -142,8 +142,7 @@ First seen: main channel · Sep 23
 
 ---
 
----
-
-➡️ Daily ML signals · [Papers.Data.Code](https://t.me/papersdatacode)
-
-via [Papers.Data.Code | Digests](https://t.me/papersdatacode_digests)
+➡️ Daily feed · [Telegram](https://t.me/papersdatacode) · [X](https://x.com/papersdatacode)  
+✉️ Weekly email · [The Weekly ML Signal](https://papersdatacode.com/?utm_source=f_gh_digest)  
+📋 Digests · [Papers.Data.Code | Digests](https://t.me/papersdatacode_digests)  
+🌐 Russian version · [Papers.Data.Code | Digests RU](https://t.me/papersdatacode_digests_ru)

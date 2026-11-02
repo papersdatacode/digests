@@ -49,7 +49,7 @@
 
 **Предыдущий лидер** · **NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction**
 ⭐ 27 (+4) · ❤️ 204 (-124)
-**Дайджест** · [Сентябрьский выпуск]
+**Дайджест** · [[Сентябрьский выпуск]](2026-09-September.md)
 
 ---
 
@@ -94,7 +94,7 @@
 
 **Предыдущий лидер** · **jaredpalmer/kev**
 ⭐ 9.5k (+2.3k) · 🍴 647 (+210)
-**Дайджест** · [Сентябрьский выпуск]
+**Дайджест** · [[Сентябрьский выпуск]](2026-09-September.md)
 
 ---
 
@@ -138,12 +138,11 @@
 
 **Предыдущий лидер** · **secemp9/arxiv-complete**
 📥 263.8k (+179.6k) · ❤️ 709 (+242)
-**Дайджест** · [Сентябрьский выпуск]
+**Дайджест** · [[Сентябрьский выпуск]](2026-09-September.md)
 
 ---
 
----
-
-➡️ Лента ML сигналов · [Papers.Data.Code | RU](https://t.me/papersdatacode_ru)
-
-via [Papers.Data.Code | Digests RU](https://t.me/papersdatacode_digests_ru)
+➡️ Ежедневная лента · [Telegram](https://t.me/papersdatacode_ru) · [X (EN)](https://x.com/papersdatacode)  
+✉️ Лучшее за неделю по email (EN) · [The Weekly ML Signal](https://papersdatacode.com/?utm_source=f_gh_digest_ru)  
+📋 Дайджесты · [Papers.Data.Code | Digests RU](https://t.me/papersdatacode_digests_ru)  
+🌐 Английская версия · [Papers.Data.Code | Digests](https://t.me/papersdatacode_digests)
